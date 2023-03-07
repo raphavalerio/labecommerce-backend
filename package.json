@@ -1,0 +1,29 @@
+{
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "@types/node": "^18.14.4",
+    "D": "^1.0.0"
+  },
+  "name": "labecommerce-backend",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ex1": "tsc && node ./build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphavalerio/labecommerce-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphavalerio/labecommerce-backend/issues"
+  },
+  "homepage": "https://github.com/raphavalerio/labecommerce-backend#readme"
+}
