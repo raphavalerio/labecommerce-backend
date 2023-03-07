@@ -1,4 +1,4 @@
-import {Tuser, Tproduct, Tpurchase} from "./types"
+import { Tuser, Tproduct, Tpurchase } from "./types"
 
 export const users: Tuser[] = [{
     id: "1",
