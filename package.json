@@ -1,23 +1,11 @@
 {
-  "name": "labecommerce-backend",
-  "version": "1.0.0",
-  "description": "Exercicio aula node",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node start.js Ola"
+
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/raphavalerio/labecommerce-backend.git"
   },
-  "keywords": [
-    "node",
-    "vscode",
-    "labenu"
-  ],
-  "author": "Raphael Valerio",
+
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/raphavalerio/labecommerce-backend/issues"
